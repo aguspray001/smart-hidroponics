@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196451135279",
+    "project_id": "hidroponics-8121d",
+    "storage_bucket": "hidroponics-8121d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196451135279:android:c3d931e9c8404653dcbbda",
+        "android_client_info": {
+          "package_name": "com.smarthidroponics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196451135279-ilemn8vbbrdsd9bbgm0ooe688nl30ivp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8UtirAvctNPnWDkGy_DZvkQGG2Yff0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196451135279-ilemn8vbbrdsd9bbgm0ooe688nl30ivp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
